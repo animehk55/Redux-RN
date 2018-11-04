@@ -10,7 +10,11 @@
     "react": "16.6.0-alpha.8af6728",
     "react-native": "0.57.4",
     "redux-logger": "^3.0.6",
+    "react-navigation": "^2.2.5",
     "react-navigation-redux-helpers": "^1.0.5",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "@expo/vector-icons": "^6.3.1"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
